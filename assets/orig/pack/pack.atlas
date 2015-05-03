@@ -1,0 +1,83 @@
+
+pack.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 171
+  size: 1191, 670
+  orig: 1191, 670
+  offset: 0, 0
+  index: -1
+favicon-black
+  rotate: false
+  xy: 1195, 248
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+favicon-blue
+  rotate: false
+  xy: 1453, 506
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+favicon-white
+  rotate: false
+  xy: 1195, 506
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+laststand
+  rotate: false
+  xy: 2, 843
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 91
+  size: 871, 78
+  orig: 871, 78
+  offset: 0, 0
+  index: -1
+off-switch
+  rotate: false
+  xy: 875, 105
+  size: 114, 64
+  orig: 114, 64
+  offset: 0, 0
+  index: -1
+on-switch
+  rotate: false
+  xy: 1924, 1859
+  size: 114, 64
+  orig: 114, 64
+  offset: 0, 0
+  index: -1
+slickarrow-delta
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+transparent-button
+  rotate: false
+  xy: 2, 20
+  size: 462, 69
+  orig: 462, 69
+  offset: 0, 0
+  index: -1
+white-button
+  rotate: false
+  xy: 1195, 764
+  size: 470, 77
+  orig: 470, 77
+  offset: 0, 0
+  index: -1

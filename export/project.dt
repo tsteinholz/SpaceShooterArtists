@@ -1,0 +1,1 @@
+{"originalResolution":{"name":"orig","width":4096,"height":2160},"resolutions":[{"name":"2K","width":2048,"height":1152},{"name":"K","width":1920,"height":1080},{"name":"HD","width":720,"height":364},{"name":"LowDef","width":480,"height":320}],"scenes":[{"sceneName":"MainScene","physicsPropertiesVO":{}},{"sceneName":"SplashScreen","physicsPropertiesVO":{}}]}
